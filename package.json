@@ -1,6 +1,6 @@
 {
   "name": "date-to-props",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Get simple properties from Date object.",
   "main": "index.js",
   "directories": {
@@ -21,7 +21,7 @@
     "object",
     "objects"
   ],
-  "author": "Anders D. Johnson",
+  "author": "Anders D. Johnson (https://andersdjohnson.com)",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/AndersDJohnson/date-to-props.js/issues"
